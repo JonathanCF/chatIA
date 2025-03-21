@@ -1,0 +1,12 @@
+# Ignorar a pasta .streamlit
+.streamlit/
+
+# Outros arquivos/pastas ignorados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+*.log
